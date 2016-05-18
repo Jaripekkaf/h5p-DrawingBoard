@@ -1,0 +1,11 @@
+[ 
+  { 
+    "label": "Greeting text", 
+    "name": "greeting", 
+    "type": "text", 
+    "default": "Draw here!", 
+    "description": "The greeting text displayed to the end user."
+  }
+]
+
+

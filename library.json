@@ -1,0 +1,24 @@
+{
+  "title": "Drawing Board",
+  "description": "You can draw a picture",
+  "majorVersion": 1,
+  "minorVersion": 0,
+  "patchVersion": 1,
+  "runnable": 1,
+  "author": "JP",
+  "license": "cc-by-sa",
+  "machineName": "H5P.DrawingBoard",
+  "coreApi": {
+    "majorVersion": 1,
+    "minorVersion": 0
+  },
+  "preloadedJs": [
+    { "path": "drawingboard.js" },
+    {
+      "path": "canvas.js"
+    }
+  ],
+  "preloadedCss": [
+    {"path": "drawingboard.css"}
+  ]
+}
